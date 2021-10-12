@@ -68,7 +68,7 @@ body {
 	border-radius: 5px;
 	height:160px;
 	width: 40%;
-	font-size: 15px;
+	font-size: 12px;
 }
 
 .record_number img{
@@ -106,7 +106,7 @@ Tabのレイアウト
 	margin:0 2px;
 	padding:5px 15px;
 	border-radius: 25px;
-	font-size: 12px;
+	font-size: 10px;
 }
 /*liにactiveクラスがついた時の形状*/
 .tab li.active a{
