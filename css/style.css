@@ -106,7 +106,7 @@ Tabのレイアウト
 	margin:0 1px;
 	padding:3px 5px;
 	border-radius: 25px;
-	font-size: 12px;
+	font-size: 14px;
 }
 /*liにactiveクラスがついた時の形状*/
 .tab li.active a{
