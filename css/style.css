@@ -66,7 +66,7 @@ body {
 	color: #fff;
 	background-color: #333;
 	border-radius: 5px;
-	height:160px;
+	height:130px;
 	width: 45%;
 	font-size: 12px;
 }
@@ -103,10 +103,10 @@ Tabのレイアウト
 .tab li a{
 	display: block;
 	background:rgb(141, 141, 141);
-	margin:0 2px;
-	padding:5px 15px;
+	margin:0 1px;
+	padding:3px 5px;
 	border-radius: 25px;
-	font-size: 10px;
+	font-size: 12px;
 }
 /*liにactiveクラスがついた時の形状*/
 .tab li.active a{
@@ -329,7 +329,7 @@ vertical-align: bottom;
 .header{
 	background-color: #1B1310;
 	color: #fff;
-	height:74px;
+	height:50px;
 	padding: 0 120px;
 	border-bottom:1px solid #fff;
 	display: flex;
