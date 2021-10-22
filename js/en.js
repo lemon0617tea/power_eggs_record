@@ -367,11 +367,11 @@
             // FOOTER
             document.getElementById("language_display40").innerHTML = "administrator lemon tea";
 
-            document.getElementById("language_display1006").innerHTML = "SG";
-            document.getElementById("language_display1007").innerHTML = "MB";
-            document.getElementById("language_display1008").innerHTML = "LO";
-            document.getElementById("language_display1009").innerHTML = "SS";
-            document.getElementById("language_display1010").innerHTML = "Ap";
+            document.getElementById("language_display1006").innerHTML = "S-G";
+            document.getElementById("language_display1007").innerHTML = "M-B";
+            document.getElementById("language_display1008").innerHTML = "L-O";
+            document.getElementById("language_display1009").innerHTML = "S-S";
+            document.getElementById("language_display1010").innerHTML = "A-P";
 		}
 	}
 
