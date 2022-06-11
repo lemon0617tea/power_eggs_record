@@ -241,7 +241,7 @@ Tabのレイアウト
 .tab li a{
 	display: block;
 	background:rgb(141, 141, 141);
-	margin:0 1px;
+	margin:0 5px;
 	padding: 5px;
 	border-radius: 25px;
 	font-size: 15px;
